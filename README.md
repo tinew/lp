@@ -1,0 +1,2 @@
+# lp
+learning python
